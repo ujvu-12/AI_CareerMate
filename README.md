@@ -43,34 +43,62 @@ OpenAI API / Hugging Face models
 
 
 🧩 Project Structure
+
 AI_CareerMate/
+
 │
-├── app.py                     # Main backend application
-├── requirements.txt            # Dependencies
+
+├── app.py     
+# Main backend application
+
+├── requirements.txt    
+# Dependencies
+
 │
+
 ├── data/
+
 │   ├── job_roles.csv
+
 │   └── skills_list.json
+
 │
 ├── models/
+
 │   └── (trained models / saved weights)
+
 │
+
 ├── utils/
+
 │   ├── resume_parser.py
+
 │   ├── jd_parser.py
+
 │   ├── ats_checker.py
+
 │   ├── skill_extractor.py
+
 │   ├── skill_gap_analyzer.py
+
 │   ├── roadmap_generator.py
+
 │   └── job_recommender.py
+
 │
+
 ├── assets/
-│   └── (UI images / icons / design files)
+
+│   └── (logo.jpg)
+
 │
+
 └── README.md
 
 
+
 🧰 Setup Instructions
+
 
 
 Clone the repository
