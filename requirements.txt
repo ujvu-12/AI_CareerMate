@@ -1,0 +1,11 @@
+streamlit
+spacy
+sentence-transformers
+keybert
+scikit-learn
+PyPDF2
+docx2txt
+pandas
+numpy
+plotly
+openai
