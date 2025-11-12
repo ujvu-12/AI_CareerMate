@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 spacy
 sentence-transformers
@@ -9,3 +10,16 @@ pandas
 numpy
 plotly
 openai
+=======
+streamlit
+spacy
+sentence-transformers
+keybert
+scikit-learn
+PyPDF2
+docx2txt
+pandas
+numpy
+plotly
+openai
+>>>>>>> 7c061ee44d80838da119ee5ebd8bef2d30655ef0
